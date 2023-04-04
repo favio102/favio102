@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Favio</h1>
+<h1 align="center">Hello, I'm Favio</h1>
 <h3 align="center">A passionate Full Stack person</h3>
 
 - 🔭 I’m currently working on [various course projects](...)
@@ -7,8 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [http://favio102.github.io/info/](http://favio102.github.io/info/)
 
-- ⚡ Fun fact **I used dream about code when sleep**
+
 <!-- 
+- ⚡ Fun fact **I used dream about code when sleep**
 - 📫 How to reach me **favio102@protonmail.com**
 - 👯 I’m looking to collaborate on [any project](...)
 - 🤝 I’m looking for help with [.....](...)
