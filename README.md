@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://favio102.github.io/info/](http://favio102.github.io/info/)
 
-- - 🤝 I’m looking for help with any open source
+- 🤝 I’m looking for help with any open source project.
 
 
 
