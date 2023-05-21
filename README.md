@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Favio --- </h1>
+<h1 align="center">Hello, I'm Favio </h1>
 <h3 align="center">A passionate Full Stack person</h3>
 
 - 🔭 I’m currently working on [various course projects](...)
