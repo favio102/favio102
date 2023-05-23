@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Favio </h1>
 <h3 align="center">A passionate Full Stack person</h3>
 
-- 🔭 I’m currently working on various course projects.
+- 🔭 Currently working on various course projects.
 
 - 🌱 I’m currently learning **Front End and Back End Stack**
 
