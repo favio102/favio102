@@ -28,11 +28,6 @@
 <a href="#" target="blank"><img align="center" src="https://as1.ftcdn.net/v2/jpg/05/46/52/54/1000_F_546525450_cF6VDibXthS40MWWg3pT3TVWLWDeNG3V.jpg" alt="interest" height="40" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3271/3271136.png" alt="interest" height="40" width="40" /></a>
 <!-- <a href="#" target="blank"><img align="center" src="" alt="interest" height="40" width="40" /></a> -->
-
-  https://cdn-icons-png.flaticon.com/512/2143/2143771.png
-</p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/favio102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="favio v" height="30" width="40" /></a>
