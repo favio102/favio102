@@ -18,6 +18,20 @@
 - 📝 I regularly write articles on [...](...)
 - 💬 Ask me about **...**
 -->
+<h3 align="left">Interests:</h3>
+<p align="left">
+<a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1087/1087191.png" alt="alien" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5184/5184878.png" alt="alien" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3049/3049617.png" alt="favio v" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1598/1598677.png" alt="favio v" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/683/683940.png" alt="interest" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://as1.ftcdn.net/v2/jpg/05/46/52/54/1000_F_546525450_cF6VDibXthS40MWWg3pT3TVWLWDeNG3V.jpg" alt="interest" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3271/3271136.png" alt="interest" height="40" width="40" /></a>
+<!-- <a href="#" target="blank"><img align="center" src="" alt="interest" height="40" width="40" /></a> -->
+
+  https://cdn-icons-png.flaticon.com/512/2143/2143771.png
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
