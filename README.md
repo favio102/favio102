@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&duration=1600&pause=1000&color=181899&width=680&lines=Welcome+to+my+page%2C+I+am+Favio;a+passionate+individual+building+applications;and+continuously+learning+new+technologies." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&duration=2000&pause=1000&color=181899&width=680&lines=Welcome+to+my+page%2C+I+am+Favio;a+passionate+individual+building+applications;and+continuously+learning+new+technologies." alt="Typing SVG" /></a>
 
 - 🔭 Currently working on various course projects.
 
