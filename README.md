@@ -1,6 +1,4 @@
-<h1 align="center">Hello, I'm Favio </h1>
-<h3 align="center">"I am a passionate individual building applications and continuously learning new technologies."</h3>
-<!-- https://readme-typing-svg.herokuapp.com/?color=%23348AAD&size=17&center=true&lines=Hi%2C+My+name+is+Saurabh+Kumar;Welcome+to+my+GitHub+Profile-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&duration=1600&pause=1000&color=181899&width=680&lines=Welcome+to+my+page%2C+I+am+Favio;a+passionate+individual+building+applications;and+continuously+learning+new+technologies." alt="Typing SVG" /></a>
 
 - 🔭 Currently working on various course projects.
 
