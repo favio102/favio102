@@ -81,6 +81,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> -->
 </p>
+[![@rphi's Holopin board](https://www.holopin.io/hacktoberfest2023/userbadge/cln2gile605310fm836r0hv3f?balloons=true)](https://holopin.io/@rphi)
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=favio102&show_icons=true&locale=en&layout=compact" alt="favio102" /></p> -->
 
