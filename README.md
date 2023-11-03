@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2000&pause=1000&color=CF5F18&random=false&width=580&separator=%3C&lines=Wellcome+to+my+page%2C+I+am+Favio%3CConsole.Write(%22%5Cu3053%5Cu3093%5Cu306B%5Cu3061%5Cu306F%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2000&pause=1000&color=CF5F18&random=false&width=640&separator=%3C&lines=Wellcome+to+my+page%2C+I+am+Favio%3CConsole.WriteLine(%22%5Cu3053%5Cu3093%5Cu306B%5Cu3061%5Cu306F!%22);)](https://git.io/typing-svg)
 
 - 🔭 Currently working on various course projects.
 
