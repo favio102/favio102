@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on various course projects.
 
-- 🌱 I’m currently learning **Front End and Back End Stack**
+- 🌱  **Front End / Back End**
 
 <!--- 👨‍💻 All of my projects are available at [http://favio102.github.io/info/](http://favio102.github.io/info/)-->
 
